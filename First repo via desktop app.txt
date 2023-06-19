@@ -1,3 +1,5 @@
 # First file through the desktop app
 
 New txt file, created via the desktop app.
+
+New line
